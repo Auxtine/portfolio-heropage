@@ -285,4 +285,16 @@ input:focus {
   .form {
     margin-top: -2rem;
   }
+
+  .search {
+    height: 40px;
+  }
+
+  .srch-btn {
+    padding: 0 0.5rem;
+  }
+
+  .mobile-nav-action input {
+    width: 130px;
+  }
 }

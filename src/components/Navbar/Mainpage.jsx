@@ -87,7 +87,7 @@ export default function Mainpage() {
             Contact
           </a>
         </li>
-        <div>
+        <div className="mobile-nav-action">
           <input type="text" placeholder="Type to search" className="search" />
           <a href="#">
             <button className="srch-btn">Search</button>
