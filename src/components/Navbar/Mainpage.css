@@ -207,7 +207,7 @@ input:focus {
 }
 
 .hamburger {
-  color: var(--text-primary-clr);
+  color: var(--main-clr);
   font-size: 2rem;
   padding-left: 1rem;
   display: none;
