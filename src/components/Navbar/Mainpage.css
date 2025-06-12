@@ -218,6 +218,13 @@ input:focus {
 }
 
 @media screen and (max-width: 790px) {
+  header {
+    padding: 1rem;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+
   .desktop-menu,
   .nav-action .search,
   .nav-action .srch-btn {
@@ -276,7 +283,6 @@ input:focus {
   }
 
   .form {
-    margin-left: 5rem;
     margin-top: -2rem;
   }
 }
